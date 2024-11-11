@@ -8,7 +8,10 @@ Yanzhe Liu, Rong Chen, Yushi Li, Yixi Li, Xuehou Tan
 
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
 
-# Result
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.html)
+
+
+# Results
 You can find the test results of [PU1K](https://drive.google.com/drive/folders/1-Q1_xtnvBqGEfXQKhJOHQN__-OZN_xcY?usp=drive_link) and [PUGAN](https://drive.google.com/drive/folders/1rYZ0__Z1ZiZAJBlBNRk-p01Qd2mYeyRo?usp=drive_link) here.
 
 # Upsampling Demo
@@ -20,3 +23,16 @@ You can find the test results of [PU1K](https://drive.google.com/drive/folders/1
 
 # Codes
 To be updated soon.
+
+# Citation
+If you find our code or paper useful, please consider citing
+```
+@InProceedings{Liu_2024_CVPR,
+    author    = {Liu, Yanzhe and Chen, Rong and Li, Yushi and Li, Yixi and Tan, Xuehou},
+    title     = {SPU-PMD: Self-Supervised Point Cloud Upsampling via Progressive Mesh Deformation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {5188-5197}
+}
+```
