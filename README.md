@@ -2,13 +2,11 @@
 
 This repository is for SPU-PMD introduced in the following paper:  
 
-**SPU-PMD: Self-Supervised Point Cloud Upsampling via Progressive Mesh Deformation**
+[**SPU-PMD: Self-Supervised Point Cloud Upsampling via Progressive Mesh Deformation**](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.html)
 
 Yanzhe Liu, Rong Chen, Yushi Li, Yixi Li, Xuehou Tan 
 
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
-
-[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.html)
 
 
 # Results
