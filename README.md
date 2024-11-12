@@ -10,6 +10,32 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
 
 <img src="./img/Overview_v2.png" style="zoom:80%;" />
 
+# Usage
+The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_cuda11.3_cudnn8.3.2_0）python 3.7.13. Pretrained weights are available in [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link).
+
+1. Install python denpendencies.
+   ```shell
+   pip install -r requirements.txt
+   ```
+2. Compile pyTorch extensions.
+   ```shell
+   cd pointnet2_ops_lib
+   python setup.py install
+    
+   cd ../losses
+   python setup.py install
+   ```
+3. Install uniformloss
+   ```shell
+   pip install --upgrade https://github.com/unlimblue/KNN_CUDA/releases/download/0.2/KNN_CUDA-0.2-py3-none-any.whl
+   ```
+4. Compile evaluation code
+   ```shell
+   cd evaluation_code
+   cmake .
+   make
+   ```
+
 # Results
 
 You can download the **test results** of [PU1K](https://drive.google.com/drive/folders/1-Q1_xtnvBqGEfXQKhJOHQN__-OZN_xcY?usp=drive_link) and [PUGAN](https://drive.google.com/drive/folders/1rYZ0__Z1ZiZAJBlBNRk-p01Qd2mYeyRo?usp=drive_link) here.
