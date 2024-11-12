@@ -8,6 +8,7 @@ Yanzhe Liu, Rong Chen, Yushi Li, Yixi Li, Xuehou Tan
 
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
 
+<img src="./img/Overview_v2.png" style="zoom:80%;" />
 
 # Results
 
