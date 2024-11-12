@@ -15,7 +15,7 @@
 
   </p>
   
-  <h3 align="center"><a href="[https://arxiv.org/abs/2312.15133](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.html)">Paper</a> | <a href="https://github.com/lyz21/SPU-PMD/">Project Page</a></h3>
+  <h3 align="center"><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.html">Paper</a> | <a href="https://github.com/lyz21/SPU-PMD/">Project Page</a></h3>
   <div align="center"></div>
 </p>
 
@@ -24,13 +24,6 @@
 </p>
 
 
-[**SPU-PMD: Self-Supervised Point Cloud Upsampling via Progressive Mesh Deformation**](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.html)
-
-Yanzhe Liu, Rong Chen, Yushi Li, Yixi Li, Xuehou Tan
-
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
-
-<img src="./img/Overview_v2.png" style="zoom:80%;" />
 
 # Requirements
 The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_cuda11.3_cudnn8.3.2_0）python 3.7.13. Pretrained weights are available in [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link). Test result can be downloaded [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link).
