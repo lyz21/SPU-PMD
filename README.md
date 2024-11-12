@@ -10,7 +10,9 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
 
 
 # Results
-You can find the test results of [PU1K](https://drive.google.com/drive/folders/1-Q1_xtnvBqGEfXQKhJOHQN__-OZN_xcY?usp=drive_link) and [PUGAN](https://drive.google.com/drive/folders/1rYZ0__Z1ZiZAJBlBNRk-p01Qd2mYeyRo?usp=drive_link) here.
+You can download the pretrained models of [PU1K](https://drive.google.com/file/d/1v26YqHQ3CKZjSFOS3zW9F_SooAg5iyI9/view?usp=drive_link) and [PUGAN](https://drive.google.com/file/d/1576rtdgEoaO9D-6EbmwEJbgWbqEY7taf/view?usp=drive_link) here.
+
+You can download the test results of [PU1K](https://drive.google.com/drive/folders/1-Q1_xtnvBqGEfXQKhJOHQN__-OZN_xcY?usp=drive_link) and [PUGAN](https://drive.google.com/drive/folders/1rYZ0__Z1ZiZAJBlBNRk-p01Qd2mYeyRo?usp=drive_link) here.
 
 # Upsampling Demo
 
