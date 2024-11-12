@@ -25,7 +25,7 @@
 
 
 
-# Requirements
+## Requirements
 The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_cuda11.3_cudnn8.3.2_0）python 3.7.13. Pretrained weights are available in [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link). Test result can be downloaded [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link).
 
 1. Install python denpendencies.
@@ -50,7 +50,7 @@ The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_c
    cmake .
    make
    ```
-# Usage
+## Usage
 1. Train the model.
    ```shell
    sh start_train.sh
@@ -64,13 +64,13 @@ The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_c
    sh eval.sh
    ```
 
-# Results
+## Results
 
 You can download the **test results** of [PU1K](https://drive.google.com/drive/folders/1-Q1_xtnvBqGEfXQKhJOHQN__-OZN_xcY?usp=drive_link) and [PUGAN](https://drive.google.com/drive/folders/1rYZ0__Z1ZiZAJBlBNRk-p01Qd2mYeyRo?usp=drive_link) here.
 
 You can download the **pretrained models** of [PU1K](https://drive.google.com/file/d/1v26YqHQ3CKZjSFOS3zW9F_SooAg5iyI9/view?usp=drive_link) and [PUGAN](https://drive.google.com/file/d/1576rtdgEoaO9D-6EbmwEJbgWbqEY7taf/view?usp=drive_link) here.
 
-# Dataset file Organization
+## Dataset file Organization
 ```
 dataset
 ├───PU1K 
@@ -111,20 +111,20 @@ dataset
 │     ...
 ```
 
-# Upsampling Demo
+## Upsampling Demo
 
 <img src="./img/result-pu1k.png" style="zoom:80%;" />
 
 <img src="./img/result-scannet.png" style="zoom:80%;" />
 
 
-# Codes
-To be updated soon.
+## Codes
+To be completed soon.
 
-# Acknowledgment
+## Acknowledgment
 Our code is built upon the following repositories: [PUCRN](https://github.com/hikvision-research/3DVision/tree/main/PointUpsampling/PUCRN) and [PUGCN](https://github.com/guochengqian/PU-GCN). Thanks for their great work.
 
-# Citation
+## Citation
 If you find our code or paper useful, please consider citing
 ```
 @InProceedings{Liu_2024_CVPR,
