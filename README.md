@@ -23,7 +23,8 @@
   <img src="./img/Overview_v2.png" width="780" />
 </p>
 
-
+**📅 Release Phases**  
+We are rolling out the code in phases. Stay tuned for upcoming updates!  
 
 ## Requirements
 The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_cuda11.3_cudnn8.3.2_0）python 3.7.13. Pretrained weights are available in [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link). Test result can be downloaded [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link).
@@ -118,8 +119,6 @@ dataset
 <img src="./img/result-scannet.png" style="zoom:80%;" />
 
 
-## Codes
-To be completed soon.
 
 ## Acknowledgment
 Our code is built upon the following repositories: [PUCRN](https://github.com/hikvision-research/3DVision/tree/main/PointUpsampling/PUCRN) and [PUGCN](https://github.com/guochengqian/PU-GCN). Thanks for their great work.
