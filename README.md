@@ -23,7 +23,7 @@
   <img src="./img/Overview_v2.png" width="780" />
 </p>
 
-**📅 Release Phases**  
+## 📅 Release Phases  
 We are rolling out the code in phases. Stay tuned for upcoming updates!  
 
 ## Requirements
