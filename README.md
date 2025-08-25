@@ -24,7 +24,7 @@
 </p>
 
 ## 📅 Release Phases  
-We are rolling out the code in phases. Stay tuned for upcoming updates!  
+The project has been released!
 
 ## Requirements
 The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_cuda11.3_cudnn8.3.2_0）python 3.7.13. Pretrained weights are available in [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link). Test result can be downloaded [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link).
