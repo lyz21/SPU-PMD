@@ -26,6 +26,12 @@
 ## 📅 Release Phases  
 The project has been released!
 
+## Results
+
+You can download the **test results** of [PU1K](https://drive.google.com/drive/folders/1-Q1_xtnvBqGEfXQKhJOHQN__-OZN_xcY?usp=drive_link) and [PUGAN](https://drive.google.com/drive/folders/1rYZ0__Z1ZiZAJBlBNRk-p01Qd2mYeyRo?usp=drive_link) here.
+
+You can download the **pretrained models** of [PU1K](https://drive.google.com/file/d/1v26YqHQ3CKZjSFOS3zW9F_SooAg5iyI9/view?usp=drive_link) and [PUGAN](https://drive.google.com/file/d/1576rtdgEoaO9D-6EbmwEJbgWbqEY7taf/view?usp=drive_link) here.
+
 ## Requirements
 The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_cuda11.3_cudnn8.3.2_0）python 3.7.13. Pretrained weights are available in [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link). Test result can be downloaded [here](https://drive.google.com/drive/folders/1pMtT6xVw617xGcBWEcL9icTPKc7NUVPr?usp=drive_link).
 
@@ -65,11 +71,7 @@ The code is tested under Pytorch 1.6.0 and Python 3.6 / pytorch 1.12.1（py3.7_c
    sh eval.sh
    ```
 
-## Results
 
-You can download the **test results** of [PU1K](https://drive.google.com/drive/folders/1-Q1_xtnvBqGEfXQKhJOHQN__-OZN_xcY?usp=drive_link) and [PUGAN](https://drive.google.com/drive/folders/1rYZ0__Z1ZiZAJBlBNRk-p01Qd2mYeyRo?usp=drive_link) here.
-
-You can download the **pretrained models** of [PU1K](https://drive.google.com/file/d/1v26YqHQ3CKZjSFOS3zW9F_SooAg5iyI9/view?usp=drive_link) and [PUGAN](https://drive.google.com/file/d/1576rtdgEoaO9D-6EbmwEJbgWbqEY7taf/view?usp=drive_link) here.
 
 ## Dataset file Organization
 ```
