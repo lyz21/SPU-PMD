@@ -15,7 +15,6 @@
 
   </p>
 
-  https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.pdf
   
   <h3 align="center"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.pdf">Paper</a> | <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SPU-PMD_Self-Supervised_Point_Cloud_Upsampling_via_Progressive_Mesh_Deformation_CVPR_2024_paper.html">CVPR Open Access</a> | <a href="https://github.com/lyz21/SPU-PMD/">Project Page</a></h3>
   <div align="center"></div>
